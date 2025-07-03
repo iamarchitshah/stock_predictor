@@ -1,6 +1,10 @@
 streamlit
 yfinance
-scikit-learn
 pandas
-matplotlib
+numpy
+scikit-learn
 tensorflow
+matplotlib
+nltk
+vaderSentiment
+newspaper3k
