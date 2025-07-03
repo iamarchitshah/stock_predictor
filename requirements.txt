@@ -7,4 +7,4 @@ tensorflow
 matplotlib
 nltk
 vaderSentiment
-newspaper3k
+feedparser
